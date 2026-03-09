@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**SaskyDev/SaskyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning software development and building projects to improve my programming skills.
 
-Here are some ideas to get you started:
+## Technologies I'm working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML  
+CSS  
+JavaScript  
+SQL  
+Java  
+Python  
+
+## Current focus
+
+I’m currently focused on improving my programming skills while building small tools and web utilities.
+
+## Project
+
+I'm currently working on a project focused on building small developer tools such as utilities for developers and web tools.
+
+## Goals
+
+- Improve my programming and problem-solving skills  
+- Build useful tools for developers  
+- Keep learning and creating projects<!--
