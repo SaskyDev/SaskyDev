@@ -23,4 +23,4 @@ I'm currently working on a project focused on building small developer tools suc
 
 - Improve my programming and problem-solving skills  
 - Build useful tools for developers  
-- Keep learning and creating projects<!--
+- Keep learning and creating projects
